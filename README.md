@@ -2,3 +2,4 @@
 * 《程序员的职业素养》 （*The Clean Coder* by Robert C.Martin） 2017-02-11
 * 《重构：改善既有代码的设计》 （*Refactoring:Improving the Design of Existing Code* by Martin Fowler） 2017-03-15
 * 《WebGL Beginner's Guide》 by Diego Cantor & Brandon Jones 2017-06-06
+* 《Go语言实践》 by William Kennedy & Brian Ketelsen & Erik St. Martin 2017-08-14
