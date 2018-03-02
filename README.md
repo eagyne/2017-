@@ -1,19 +1,26 @@
-# 2017年阅读书目记录
+# 2017年阅读清单
 
-## 2月
-* 《程序员的职业素养》 （*The Clean Coder* by Robert C.Martin） 2017-02-11
+## 职业素养
+《程序员的职业素养》
+《从0到1：开启商业与未来的秘密》
+《赢》 by （美）杰克•韦尔奇，苏茜•韦尔奇
+《明智的行动艺术》 by （德）罗尔夫•多贝里
+《清醒思考的艺术》 by （德）罗尔夫•多贝里
 
-## 3月
-* 《重构：改善既有代码的设计》 （*Refactoring:Improving the Design of Existing Code* by Martin Fowler） 2017-03-15
+## 技术相关
+《重构：改善既有代码的设计》
 
-## 6月
-* 《WebGL Beginner's Guide》 by Diego Cantor & Brandon Jones 2017-06-06
+《Go语言实战》
+《Go语言编程》 by 许式伟
 
-## 8月
-* 《Go语言实战》 by William Kennedy & Brian Ketelsen & Erik St. Martin 2017-08-14
+《WebGL Beginner's Guide》
+《HTML5 Games, 2nd Edition Creating Fun with HTML5, CSS3 and WebGL》
+《高性能JavaScript》
 
-## 9月
-* 《赢》 by （美）杰克•韦尔奇，苏茜•韦尔奇
-* 《明智的行动艺术》 by （德）罗尔夫•多贝里
-* 《清醒思考的艺术》 by （德）罗尔夫•多贝里
+《Multiplayer Game Programming》
 
+《Flask Web开发：基于Python的Web引用开发实战》
+
+## 其他
+《万历十五年》
+《点石成金（Don't Make Me Think)》
